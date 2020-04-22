@@ -1,0 +1,13 @@
+Câu 4 : Khi b?m nút back trên thi?t b? : 
+ba s? ki?n du?c g?i theo th? t? là onPause() onStop() onDestroy() . 
+Lúc này Activity dã bi lo?i b? hoàn toàn không còn trong b? nh? n?a
+
+Câu 5 : khi b?m nút home có 2 s? ki?n du?c g?i là onPause() onStop() .
+Lúc này Activity Home dành du?c focus và che khu?t
+ màn hình MainActivity nên tr?ng thái MainActivity là stopped. 
+Th?c ch?t Activity v?n t?n t?i trên h? th?ng .
+
+Câu 6 :
+
+
+https://github.com/VuDatNTU/phamxuanvudat_58131283_LifeCycle.git
